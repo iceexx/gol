@@ -26,10 +26,10 @@ func main() {
 	fmt.Println(strings.Join(os.Args[1:], " * "));
 	fmt.Println(os.Args[1:]);
 
-	s1 := "";
+	s1 := "s1";
 	var s2 string;
-	var s3 = "";
-	var s4 string = "";
+	var s3 = "s3";
+	var s4 string = "s4";
 
 	fmt.Println(s1);
 	fmt.Println(s2);
