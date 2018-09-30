@@ -1,11 +1,11 @@
 package main
 
-import(
-	//"os"
+import (
+	// "os"
 	"fmt"
-	//"bufio"
+	// "bufio"
 )
 
-func main(){
-	fmt.Println("");
+func main() {
+	fmt.Println("")
 }
